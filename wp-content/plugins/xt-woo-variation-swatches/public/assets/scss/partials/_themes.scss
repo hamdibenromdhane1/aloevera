@@ -1,0 +1,17 @@
+
+/* Fix WPASTRA Theme */
+.xt_woovs-archives-enabled{
+  .ast-container {
+    .product {
+      &.product-type-simple > .product_type_simple.add_to_cart_button {
+        display:none;
+      }
+      &.product-type-variable .product_type_variable.add_to_cart_button{
+        display:none;
+      }
+      > a{
+        display:none;
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGC,sDAA6B,CAC1B,SAAS,CAAC,IAAI,CACd,KAAK,CAAE,OAAO,CAGjB,4JACmE,CAC9D,OAAO,CAAC,IAAI,CAGjB,kDAA0B,CACtB,KAAK,CAAE,kBAAiB,CAG5B,kDAAwB,CACpB,KAAK,CAAE,OAAO,CAEjB,uHACS,CACR,YAAY,CAAE,IAAI,CAClB,KAAK,CAAE,OAAO,CACd,MAAM,CAAE,OAAO,CAOjB,sIAAmC,CAClC,OAAO,CAAC,IAAI,CAId,iCAAiC,CAChC,aAAa,CAAE,yBAAwB,CACvC,UAAU,CAAE,YAAW,CACvB,cAAc,CAAE,IAAI,CACpB,4CAAY,CACX,aAAa,CAAC,YAAW,CAOzB,mIACoB,CAChB,MAAM,CAAE,eAAc,CAK5B,+BAAgC,CAE/B,OAAO,CAAE,MAAM,CACf,UAAU,CAAE,UAAU,CAEtB,wDAAyB,CAExB,SAAS,CAAE,IAAI",
+"sources": ["../../../../../../../../../../../../../Volumes/G-DRIVE/Sites/demos.xplodedthemes.dev/app/public/wp-content/plugins/xt-woo-variation-swatches/includes/customizer/assets/scss/customizer.scss"],
+"names": [],
+"file": "customizer.css"
+}

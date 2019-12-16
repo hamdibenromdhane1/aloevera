@@ -1,0 +1,1965 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: XT Woo Variation Swatches\n"
+"POT-Creation-Date: 2019-04-04 17:57-0400\n"
+"PO-Revision-Date: 2019-03-26 21:36-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: xt-woo-variation-swatches.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-admin-base.php:86
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin-base.php:86
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin-base.php:86
+msgid "Change Log"
+msgstr ""
+
+#: admin/class-admin-base.php:87
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin-base.php:87
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin-base.php:87
+msgid "About"
+msgstr ""
+
+#: admin/class-admin-base.php:97
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin-base.php:97
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin-base.php:97
+msgid "Customize"
+msgstr ""
+
+#: admin/class-admin-base.php:107 admin/class-admin-base.php:116
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin-base.php:107
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin-base.php:116
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin-base.php:107
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin-base.php:116
+msgid "Support"
+msgstr ""
+
+#: admin/class-admin-base.php:124
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin-base.php:124
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin-base.php:124
+msgid "Shop"
+msgstr ""
+
+#: admin/class-admin-base.php:129
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin-base.php:129
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin-base.php:129
+msgid "Products you might like"
+msgstr ""
+
+#: admin/class-admin-base.php:138
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin-base.php:138
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin-base.php:138
+msgid "Upgrade"
+msgstr ""
+
+#: admin/class-admin-base.php:165
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin-base.php:165
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin-base.php:165
+#, php-format
+msgid "<strong>%1$s</strong> plugin requires %2$s to be installed and active."
+msgstr ""
+
+#: admin/class-admin-base.php:241
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin-base.php:241
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin-base.php:241
+msgid "Choose an image"
+msgstr ""
+
+#: admin/class-admin-base.php:242
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin-base.php:242
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin-base.php:242
+msgid "Use image"
+msgstr ""
+
+#: admin/class-admin.php:189
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin.php:246
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin.php:189
+msgid "Swatch"
+msgstr ""
+
+#: admin/class-admin.php:195
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin.php:256
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin.php:195
+msgid "Tooltip"
+msgstr ""
+
+#: admin/class-admin.php:201
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin.php:266
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin.php:201
+msgid "Tooltip Image"
+msgstr ""
+
+#: admin/class-admin.php:207
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin.php:276
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin.php:207
+msgid "Tooltip Text"
+msgstr ""
+
+#: admin/class-admin.php:222
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin.php:294
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin.php:222
+msgid "Premium Feature!"
+msgstr ""
+
+#: admin/class-admin.php:223
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin.php:295
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin.php:223
+msgid "Upgrade to Unlock!"
+msgstr ""
+
+#: admin/class-admin.php:237
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin.php:315
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin.php:317
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin.php:237
+msgid "Add image to Attribute "
+msgstr ""
+
+#: admin/class-admin.php:237 admin/class-admin.php:278
+#: admin/class-product-swatches-tab.php:398
+#: admin/class-product-swatches-tab.php:534
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin.php:319
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:492
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:727
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin.php:237
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin.php:278
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:398
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:534
+msgid "Upload/Add image"
+msgstr ""
+
+#: admin/class-admin.php:238 admin/class-admin.php:279
+#: admin/class-product-swatches-tab.php:399
+#: admin/class-product-swatches-tab.php:535
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin.php:324
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:497
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:732
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin.php:238
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin.php:279
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:399
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:535
+msgid "Remove image"
+msgstr ""
+
+#: admin/class-admin.php:258 admin/class-product-swatches-tab.php:51
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:46
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin.php:258
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:51
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-color.php:147
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-image.php:131
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-label.php:246
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:410
+#: includes/customizer/fields/swatch-color.php:147
+#: includes/customizer/fields/swatch-image.php:131
+#: includes/customizer/fields/swatch-label.php:246
+#: includes/license/includes/class-license.php:410
+msgid "Disabled"
+msgstr ""
+
+#: admin/class-admin.php:259 admin/class-product-swatches-tab.php:52
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:47
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin.php:259
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:52
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-color.php:148
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-image.php:132
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-label.php:247
+#: includes/customizer/fields/swatch-color.php:148
+#: includes/customizer/fields/swatch-image.php:132
+#: includes/customizer/fields/swatch-label.php:247
+msgid "Text"
+msgstr ""
+
+#: admin/class-admin.php:260 admin/class-product-swatches-tab.php:53
+#: admin/class-product-swatches-tab.php:352
+#: admin/class-product-swatches-tab.php:390
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:48
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:407
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:470
+#: deploy/dist/free/xt-woo-variation-swatches/includes/class-core.php:102
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin.php:260
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:53
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:352
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:390
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/class-core.php:115
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-color.php:149
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-image.php:133
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-label.php:248
+#: includes/class-core.php:115 includes/customizer/fields/swatch-color.php:149
+#: includes/customizer/fields/swatch-image.php:133
+#: includes/customizer/fields/swatch-label.php:248
+msgid "Image"
+msgstr ""
+
+#: admin/class-admin.php:278
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin.php:278
+msgid "Add tooltip image"
+msgstr ""
+
+#: admin/class-admin.php:350
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin.php:399
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin.php:350
+msgid "Select terms"
+msgstr ""
+
+#: admin/class-admin.php:361
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin.php:416
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin.php:361
+msgid "Select all"
+msgstr ""
+
+#: admin/class-admin.php:362
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-admin.php:419
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-admin.php:362
+msgid "Select none"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:35
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:31
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:35
+msgid "Swatch Style"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:38
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:34
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-color.php:11
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-image.php:11
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-label.php:11
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:38
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-color.php:12
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-image.php:12
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-label.php:12
+#: includes/customizer/fields/swatch-color.php:12
+#: includes/customizer/fields/swatch-image.php:12
+#: includes/customizer/fields/swatch-label.php:12
+msgid "Square"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:39
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:35
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-color.php:12
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-image.php:12
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-label.php:12
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:39
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-color.php:13
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-image.php:13
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-label.php:13
+#: includes/customizer/fields/swatch-color.php:13
+#: includes/customizer/fields/swatch-image.php:13
+#: includes/customizer/fields/swatch-label.php:13
+msgid "Circle"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:40
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:36
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-color.php:13
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-image.php:13
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-label.php:13
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:40
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-color.php:14
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-image.php:14
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-label.php:14
+#: includes/customizer/fields/swatch-color.php:14
+#: includes/customizer/fields/swatch-image.php:14
+#: includes/customizer/fields/swatch-label.php:14
+msgid "Rounded"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:48
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:43
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:48
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:263
+#: includes/customizer/fields/swatch-general.php:263
+msgid "Swatch Tooltip"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:61
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:55
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:61
+msgid "Swatch Tooltip Image"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:76
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:67
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:76
+msgid "Swatch Tooltip Text"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:96
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:87
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:96
+msgid "Swatches"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:151
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:134
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:151
+#, php-format
+msgid ""
+"The %s will unlock product level swatch customizations that overrides global "
+"settings."
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:152
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:134
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:152
+msgid "Premium Version"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:157
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:142
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:157
+msgid "Upgrade Now"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:253
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:232
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:253
+msgid "Global Attribute"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:253
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:232
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:253
+msgid "Quick Attribute"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:257
+#: admin/class-product-swatches-tab.php:348
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:238
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:389
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:257
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:348
+msgid "Swatch Type"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:259
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:248
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:259
+msgid "Inherit Global"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:260
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:253
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:260
+msgid "Custom Colors"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:261
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:258
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:261
+msgid "Custom Images"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:262
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:263
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:262
+msgid "Custom Labels"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:351
+#: admin/class-product-swatches-tab.php:373
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:402
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:436
+#: deploy/dist/free/xt-woo-variation-swatches/includes/class-core.php:101
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:221
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:351
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:373
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/class-core.php:114
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:221
+#: includes/class-core.php:114
+#: includes/kirki/controls/php/class-kirki-control-typography.php:221
+msgid "Color"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:353
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:412
+#: deploy/dist/free/xt-woo-variation-swatches/includes/class-core.php:103
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:353
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/class-core.php:116
+#: includes/class-core.php:116
+msgid "Label"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:398
+#: admin/class-product-swatches-tab.php:534
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:488
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:723
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:398
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:534
+#, php-format
+msgid "Add image(s) to %s"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:398
+#: admin/class-product-swatches-tab.php:534
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:490
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:725
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:398
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:534
+msgid "Add image(s)"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:436
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:552
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:436
+msgid "No attributes found!"
+msgstr ""
+
+#: admin/class-product-swatches-tab.php:437
+#: deploy/dist/free/xt-woo-variation-swatches/admin/class-product-swatches-tab.php:553
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/admin/class-product-swatches-tab.php:437
+msgid ""
+"Add a at least one attribute / variation combination to this product. You "
+"will then be able to see the swatch configuration over here."
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/class-core.php:570
+#: deploy/dist/free/xt-woo-variation-swatches/includes/class-core.php:581
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/class-core.php:547
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/class-core.php:556
+#: includes/class-core.php:547 includes/class-core.php:556
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/class-customizer.php:107
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/class-customizer.php:107
+#: includes/customizer/class-customizer.php:107
+msgid "Global Swatch Settings"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/class-customizer.php:123
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/class-customizer.php:123
+#: includes/customizer/class-customizer.php:123
+msgid "General Swatch Settings"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/class-customizer.php:134
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/class-customizer.php:134
+#: includes/customizer/class-customizer.php:134
+msgid "Label Swatch Settings"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/class-customizer.php:145
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/class-customizer.php:145
+#: includes/customizer/class-customizer.php:145
+msgid "Color Swatch Settings"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/class-customizer.php:156
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/class-customizer.php:156
+#: includes/customizer/class-customizer.php:156
+msgid "Image Swatch Settings"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-color.php:7
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-color.php:8
+#: includes/customizer/fields/swatch-color.php:8
+msgid "Color Swatch Style"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-color.php:24
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-color.php:28
+#: includes/customizer/fields/swatch-color.php:28
+msgid "Color Swatch Width"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-color.php:42
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-color.php:49
+#: includes/customizer/fields/swatch-color.php:49
+msgid "Color Swatch Height"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-general.php:7
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:8
+#: includes/customizer/fields/swatch-general.php:8
+msgid "Enable Swatches."
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-general.php:14
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:16
+#: includes/customizer/fields/swatch-general.php:16
+msgid "Automatically convert Dropdowns to Label Swatch by default."
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-general.php:21
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:24
+#: includes/customizer/fields/swatch-general.php:24
+msgid ""
+"Automatically convert Color Dropdowns to Image Swatch if variation has an "
+"image."
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-general.php:28
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:32
+#: includes/customizer/fields/swatch-general.php:32
+msgid "Swatches Alignment"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-general.php:31
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:145
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/field/class-kirki-field-spacing.php:34
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:35
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:145
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/field/class-kirki-field-spacing.php:34
+#: includes/customizer/fields/swatch-general.php:35
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: includes/kirki/controls/php/class-kirki-control-typography.php:145
+#: includes/kirki/field/class-kirki-field-spacing.php:34
+msgid "Left"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-general.php:32
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:151
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:36
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:151
+#: includes/customizer/fields/swatch-general.php:36
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: includes/kirki/controls/php/class-kirki-control-typography.php:151
+msgid "Center"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-general.php:33
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:157
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/field/class-kirki-field-spacing.php:35
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:37
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:157
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/field/class-kirki-field-spacing.php:35
+#: includes/customizer/fields/swatch-general.php:37
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: includes/kirki/controls/php/class-kirki-control-typography.php:157
+#: includes/kirki/field/class-kirki-field-spacing.php:35
+msgid "Right"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-image.php:7
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-image.php:8
+#: includes/customizer/fields/swatch-image.php:8
+msgid "Image Swatch Style"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-image.php:24
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-image.php:28
+#: includes/customizer/fields/swatch-image.php:28
+msgid "Image Swatch Size"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-label.php:7
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-label.php:8
+#: includes/customizer/fields/swatch-label.php:8
+msgid "Label Swatch Style"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-label.php:24
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-label.php:28
+#: includes/customizer/fields/swatch-label.php:28
+msgid "Label Swatch Min Width"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-label.php:46
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-label.php:54
+#: includes/customizer/fields/swatch-label.php:54
+msgid "Label Swatch Height"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/fields/swatch-label.php:68
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-label.php:80
+#: includes/customizer/fields/swatch-label.php:80
+msgid "Label Swatch Font Size"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/include-kirki.php:66
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/include-kirki.php:66
+#: includes/customizer/include-kirki.php:66
+msgid "Install Now"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/include-kirki.php:72
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/include-kirki.php:72
+#: includes/customizer/include-kirki.php:72
+#, php-format
+msgid ""
+"The plugin is installed but not activated. Please <a href=\"%s\">activate "
+"it</a>."
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/customizer/include-kirki.php:91
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/include-kirki.php:91
+#: includes/customizer/include-kirki.php:91
+#, php-format
+msgid ""
+"If you wish to customize the look & feel of %sWoo Variation Swatches%s, "
+"please install the required %sXT Customizer Kit%s plugin."
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:48
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:48
+#: includes/kirki/controls/php/class-kirki-control-background.php:48
+msgid "Background Color"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:54
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:54
+#: includes/kirki/controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:59
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-base.php:132
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-repeater.php:408
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-repeater.php:413
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:59
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-base.php:132
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-repeater.php:408
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-repeater.php:413
+#: includes/kirki/controls/php/class-kirki-control-background.php:59
+#: includes/kirki/controls/php/class-kirki-control-base.php:132
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:408
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:413
+msgid "No File Selected"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:62
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-base.php:133
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-repeater.php:386
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-repeater.php:418
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-repeater.php:443
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/views/image.php:37
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/field/class-kirki-field-image.php:50
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:62
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-base.php:133
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-repeater.php:386
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-repeater.php:418
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-repeater.php:443
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/views/image.php:37
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/field/class-kirki-field-image.php:50
+#: includes/kirki/controls/php/class-kirki-control-background.php:62
+#: includes/kirki/controls/php/class-kirki-control-base.php:133
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:386
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:418
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:443
+#: includes/kirki/controls/views/image.php:37
+#: includes/kirki/field/class-kirki-field-image.php:50
+msgid "Remove"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:63
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-base.php:135
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:63
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-base.php:135
+#: includes/kirki/controls/php/class-kirki-control-background.php:63
+#: includes/kirki/controls/php/class-kirki-control-base.php:135
+msgid "Select File"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:70
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:70
+#: includes/kirki/controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:72
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:72
+#: includes/kirki/controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:73
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:73
+#: includes/kirki/controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:74
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:74
+#: includes/kirki/controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:75
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:75
+#: includes/kirki/controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:81
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:81
+#: includes/kirki/controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:83
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:114
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:83
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:114
+#: includes/kirki/controls/php/class-kirki-control-background.php:83
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:114
+msgid "Left Top"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:84
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:115
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:84
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:115
+#: includes/kirki/controls/php/class-kirki-control-background.php:84
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:115
+msgid "Left Center"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:85
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:116
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:85
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:116
+#: includes/kirki/controls/php/class-kirki-control-background.php:85
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:116
+msgid "Left Bottom"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:86
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:117
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:86
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:117
+#: includes/kirki/controls/php/class-kirki-control-background.php:86
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:117
+msgid "Right Top"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:87
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:118
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:87
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:118
+#: includes/kirki/controls/php/class-kirki-control-background.php:87
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:118
+msgid "Right Center"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:88
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:119
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:88
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:119
+#: includes/kirki/controls/php/class-kirki-control-background.php:88
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:119
+msgid "Right Bottom"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:89
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:120
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:89
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:120
+#: includes/kirki/controls/php/class-kirki-control-background.php:89
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:120
+msgid "Center Top"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:90
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:121
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:90
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:121
+#: includes/kirki/controls/php/class-kirki-control-background.php:90
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:121
+msgid "Center Center"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:91
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:122
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:91
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:122
+#: includes/kirki/controls/php/class-kirki-control-background.php:91
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:122
+msgid "Center Bottom"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:97
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:97
+#: includes/kirki/controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:100
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:100
+#: includes/kirki/controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:103
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:103
+#: includes/kirki/controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:106
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:106
+#: includes/kirki/controls/php/class-kirki-control-background.php:106
+msgid "Auto"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:113
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:113
+#: includes/kirki/controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:116
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:116
+#: includes/kirki/controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-background.php:119
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-background.php:119
+#: includes/kirki/controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-base.php:134
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/views/image.php:36
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/field/class-kirki-field-image.php:49
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-base.php:134
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/views/image.php:36
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/field/class-kirki-field-image.php:49
+#: includes/kirki/controls/php/class-kirki-control-base.php:134
+#: includes/kirki/controls/views/image.php:36
+#: includes/kirki/field/class-kirki-field-image.php:49
+msgid "Default"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-base.php:136
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-base.php:136
+#: includes/kirki/controls/php/class-kirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-base.php:137
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-base.php:137
+#: includes/kirki/controls/php/class-kirki-control-base.php:137
+msgid "Google Fonts"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-base.php:138
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-base.php:138
+#: includes/kirki/controls/php/class-kirki-control-base.php:138
+msgid "CSS Defaults"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-base.php:139
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-base.php:139
+#: includes/kirki/controls/php/class-kirki-control-base.php:139
+msgid "Default Browser Font-Family"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimension.php:41
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:138
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimension.php:41
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:138
+#: includes/kirki/controls/php/class-kirki-control-dimension.php:41
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:138
+msgid "Invalid Value"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:123
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:102
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:123
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:102
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:123
+#: includes/kirki/controls/php/class-kirki-control-typography.php:102
+msgid "Font Size"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:124
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:124
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:124
+msgid "Font Weight"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:125
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:110
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:125
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:110
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:125
+#: includes/kirki/controls/php/class-kirki-control-typography.php:110
+msgid "Line Height"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:126
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:126
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:126
+msgid "Font Style"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:127
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:118
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:127
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:118
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:127
+#: includes/kirki/controls/php/class-kirki-control-typography.php:118
+msgid "Letter Spacing"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:128
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:126
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:128
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:126
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:128
+#: includes/kirki/controls/php/class-kirki-control-typography.php:126
+msgid "Word Spacing"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/field/class-kirki-field-spacing.php:32
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/field/class-kirki-field-spacing.php:32
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: includes/kirki/field/class-kirki-field-spacing.php:32
+msgid "Top"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/field/class-kirki-field-spacing.php:33
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/field/class-kirki-field-spacing.php:33
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: includes/kirki/field/class-kirki-field-spacing.php:33
+msgid "Bottom"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:134
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:134
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:134
+msgid "Size"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:135
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:135
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:135
+msgid "Spacing"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:136
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:136
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:136
+msgid "Width"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-dimensions.php:137
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-dimensions.php:137
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:137
+msgid "Height"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-repeater.php:77
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-repeater.php:77
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:77
+msgid "row"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-repeater.php:86
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-repeater.php:86
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:86
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-repeater.php:121
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-repeater.php:121
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:121
+msgid "Select a Page"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-repeater.php:227
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-repeater.php:227
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:227
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-repeater.php:376
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-repeater.php:381
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-repeater.php:376
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-repeater.php:381
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:376
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:381
+msgid "No Image Selected"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-repeater.php:387
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-repeater.php:391
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-repeater.php:387
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-repeater.php:391
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:387
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:391
+msgid "Add Image"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-repeater.php:387
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-repeater.php:389
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-repeater.php:387
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-repeater.php:389
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:387
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:389
+msgid "Change Image"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-repeater.php:419
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-repeater.php:423
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-repeater.php:419
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-repeater.php:423
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:419
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:423
+msgid "Add File"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-repeater.php:419
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-repeater.php:421
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-repeater.php:419
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-repeater.php:421
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:419
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:421
+msgid "Change File"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-slider.php:67
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-slider.php:67
+#: includes/kirki/controls/php/class-kirki-control-slider.php:67
+msgid "Reset"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-switch.php:52
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/field/class-kirki-field-switch.php:39
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-switch.php:52
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/field/class-kirki-field-switch.php:39
+#: includes/kirki/controls/php/class-kirki-control-switch.php:52
+#: includes/kirki/field/class-kirki-field-switch.php:39
+msgid "On"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-switch.php:56
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/field/class-kirki-field-switch.php:40
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-switch.php:56
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/field/class-kirki-field-switch.php:40
+#: includes/kirki/controls/php/class-kirki-control-switch.php:56
+#: includes/kirki/field/class-kirki-field-switch.php:40
+msgid "Off"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:82
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:82
+#: includes/kirki/controls/php/class-kirki-control-typography.php:82
+msgid "Font Family"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:83
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:88
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:83
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:88
+#: includes/kirki/controls/php/class-kirki-control-typography.php:83
+#: includes/kirki/controls/php/class-kirki-control-typography.php:88
+msgid "Select Font Family"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:87
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:87
+#: includes/kirki/controls/php/class-kirki-control-typography.php:87
+msgid "Backup Font"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:93
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:93
+#: includes/kirki/controls/php/class-kirki-control-typography.php:93
+msgid "Variant"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:134
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:134
+#: includes/kirki/controls/php/class-kirki-control-typography.php:134
+msgid "Text Align"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:139
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:181
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:197
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:91
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:139
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:181
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:197
+#: includes/customizer/fields/swatch-general.php:91
+#: includes/kirki/controls/php/class-kirki-control-typography.php:139
+#: includes/kirki/controls/php/class-kirki-control-typography.php:181
+#: includes/kirki/controls/php/class-kirki-control-typography.php:197
+msgid "Inherit"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:163
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:163
+#: includes/kirki/controls/php/class-kirki-control-typography.php:163
+msgid "Justify"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:173
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:173
+#: includes/kirki/controls/php/class-kirki-control-typography.php:173
+msgid "Text Transform"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:176
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:192
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:176
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:192
+#: includes/kirki/controls/php/class-kirki-control-typography.php:176
+#: includes/kirki/controls/php/class-kirki-control-typography.php:192
+msgid "None"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:177
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:177
+#: includes/kirki/controls/php/class-kirki-control-typography.php:177
+msgid "Capitalize"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:178
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:178
+#: includes/kirki/controls/php/class-kirki-control-typography.php:178
+msgid "Uppercase"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:179
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:179
+#: includes/kirki/controls/php/class-kirki-control-typography.php:179
+msgid "Lowercase"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:180
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:196
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:180
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:196
+#: includes/kirki/controls/php/class-kirki-control-typography.php:180
+#: includes/kirki/controls/php/class-kirki-control-typography.php:196
+msgid "Initial"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:189
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:189
+#: includes/kirki/controls/php/class-kirki-control-typography.php:189
+msgid "Text Decoration"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:193
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:193
+#: includes/kirki/controls/php/class-kirki-control-typography.php:193
+msgid "Underline"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:194
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:194
+#: includes/kirki/controls/php/class-kirki-control-typography.php:194
+msgid "Overline"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:195
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:195
+#: includes/kirki/controls/php/class-kirki-control-typography.php:195
+msgid "Line-Through"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:205
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:205
+#: includes/kirki/controls/php/class-kirki-control-typography.php:205
+msgid "Margin Top"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/php/class-kirki-control-typography.php:213
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/php/class-kirki-control-typography.php:213
+#: includes/kirki/controls/php/class-kirki-control-typography.php:213
+msgid "Margin Bottom"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/views/image.php:34
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/views/image.php:39
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/field/class-kirki-field-image.php:47
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/field/class-kirki-field-image.php:52
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/views/image.php:34
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/views/image.php:39
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/field/class-kirki-field-image.php:47
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/field/class-kirki-field-image.php:52
+#: includes/kirki/controls/views/image.php:34
+#: includes/kirki/controls/views/image.php:39
+#: includes/kirki/field/class-kirki-field-image.php:47
+#: includes/kirki/field/class-kirki-field-image.php:52
+msgid "Select image"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/views/image.php:35
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/field/class-kirki-field-image.php:48
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/views/image.php:35
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/field/class-kirki-field-image.php:48
+#: includes/kirki/controls/views/image.php:35
+#: includes/kirki/field/class-kirki-field-image.php:48
+msgid "Change image"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/views/image.php:38
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/field/class-kirki-field-image.php:51
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/views/image.php:38
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/field/class-kirki-field-image.php:51
+#: includes/kirki/controls/views/image.php:38
+#: includes/kirki/field/class-kirki-field-image.php:51
+msgid "No image selected"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/controls/views/image.php:40
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/field/class-kirki-field-image.php:53
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/controls/views/image.php:40
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/field/class-kirki-field-image.php:53
+#: includes/kirki/controls/views/image.php:40
+#: includes/kirki/field/class-kirki-field-image.php:53
+msgid "Choose image"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/core/class-kirki-field.php:248
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/core/class-kirki-field.php:248
+#: includes/kirki/core/class-kirki-field.php:248
+#, php-format
+msgid "Typo found in field %s - setting instead of settings."
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/core/class-kirki-field.php:257
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/core/class-kirki-field.php:267
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/core/class-kirki-field.php:257
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/core/class-kirki-field.php:267
+#: includes/kirki/core/class-kirki-field.php:257
+#: includes/kirki/core/class-kirki-field.php:267
+#, php-format
+msgid ""
+"Config not defined for field %1$s - See %2$s for details on how to properly "
+"add fields."
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/core/class-kirki-field.php:375
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/core/class-kirki-field.php:375
+#: includes/kirki/core/class-kirki-field.php:375
+#, php-format
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/core/class-kirki-field.php:498
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/core/class-kirki-field.php:509
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/core/class-kirki-field.php:498
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/core/class-kirki-field.php:509
+#: includes/kirki/core/class-kirki-field.php:498
+#: includes/kirki/core/class-kirki-field.php:509
+#, php-format
+msgid ""
+"\"output\" invalid format in field %s. The \"output\" argument should be "
+"defined as an array of arrays."
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/core/class-kirki-init.php:277
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/core/class-kirki-init.php:277
+#: includes/kirki/core/class-kirki-init.php:277
+msgid ""
+"We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::"
+"get_variables() instead."
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/core/class-kirki.php:237
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/core/class-kirki.php:237
+#: includes/kirki/core/class-kirki.php:237
+msgid ""
+"Kirki fields should not be added on customize_register. Please add them "
+"directly, or on init."
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/deprecated/functions.php:19
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/deprecated/functions.php:19
+#: includes/kirki/deprecated/functions.php:19
+#, php-format
+msgid "%1$s or %2$s"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/field/class-kirki-field-color.php:52
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/field/class-kirki-field-color.php:52
+#: includes/kirki/field/class-kirki-field-color.php:52
+msgid ""
+"Do not use \"alpha\" as an argument in color controls. Use "
+"\"choices[alpha]\" instead."
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/field/class-kirki-field-radio.php:37
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/field/class-kirki-field-radio.php:37
+#: includes/kirki/field/class-kirki-field-radio.php:37
+#, php-format
+msgid ""
+"Error in field %1$s. The \"mode\" argument has been deprecated since Kirki "
+"v0.8. Use the \"radio-%2$s\" type instead."
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+#: includes/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+msgid "Customizing"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:64
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:64
+#: includes/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:64
+#, php-format
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:146
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:146
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:146
+msgid "Help us improve Kirki."
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:147
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:147
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:147
+msgid ""
+"Help us begin a dialogue with theme developers, collaborate and improve both "
+"the theme you are using and the Kirki framework by agreeing to send "
+"anonymous data. <strong>The data is completely anonymous and we will never "
+"collect any identifyable information about you or your website.</strong>"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:151
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:151
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:151
+msgid "Data that will be sent"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:156
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:156
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:156
+msgid "PHP Version"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:160
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:160
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:160
+msgid "Theme Name"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:164
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:164
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:164
+msgid "Theme Author"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:168
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:168
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:168
+msgid "Theme URI"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:172
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:172
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:172
+msgid "Field Types Used"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:182
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:182
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:182
+#, php-format
+msgid ""
+"We believe in complete transparency. You can see the code used on our server "
+"<a href=\"%1$s\" rel=\"nofollow\">here</a>, and the results of the "
+"statistics we're gathering on <a href=\"%2$s\" rel=\"nofollow\">this page</"
+"a>."
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:193
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:193
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:193
+msgid "I agree"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:194
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:194
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:194
+msgid "No thanks"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:195
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:195
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:195
+msgid "Show me the data"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:196
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:196
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:196
+msgid "Collapse data"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:209
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:210
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:209
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:210
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:209
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:210
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:211
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:211
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:211
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:212
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:212
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:212
+msgid "Light 200"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:213
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:213
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:213
+msgid "Light 200 Italic"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:214
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:214
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:214
+msgid "Book 300"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:215
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:215
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:215
+msgid "Book 300 Italic"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:216
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:217
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:216
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:217
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:216
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:217
+msgid "Normal 400"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:218
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:218
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:218
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:219
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:219
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:219
+msgid "Medium 500"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:220
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:220
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:220
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:221
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:222
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:221
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:222
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:221
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:222
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:223
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:223
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:223
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:224
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:224
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:224
+msgid "Bold 700"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:225
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:225
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:225
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:226
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:227
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:226
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:227
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:226
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:227
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:228
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:228
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:228
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:229
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:230
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:229
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:230
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:229
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:230
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/modules/webfonts/class-kirki-fonts.php:231
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/modules/webfonts/class-kirki-fonts.php:231
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:231
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/kirki/upgrade-notifications.php:30
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/kirki/upgrade-notifications.php:30
+#: includes/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/woocommerce.php:77
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/woocommerce.php:77
+#: includes/woocommerce.php:77
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/includes/woocommerce.php:97
+#: deploy/dist/free/xt-woo-variation-swatches/includes/woocommerce.php:116
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/woocommerce.php:97
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/woocommerce.php:116
+#: includes/woocommerce.php:97 includes/woocommerce.php:116
+msgid "Clear"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: deploy/dist/free/xt-woo-variation-swatches/xt-woo-variation-swatches.php:36
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/xt-woo-variation-swatches.php:37
+#: xt-woo-variation-swatches.php:37
+msgid "XT Woo Variation Swatches"
+msgstr ""
+
+#: deploy/dist/free/xt-woo-variation-swatches/xt-woo-variation-swatches.php:37
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/xt-woo-variation-swatches.php:38
+#: xt-woo-variation-swatches.php:38
+msgid "Woo Variation Swatches"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-color.php:74
+#: includes/customizer/fields/swatch-color.php:74
+msgid "Color Swatch Inner Padding"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-color.php:95
+#: includes/customizer/fields/swatch-color.php:95
+msgid "Color Swatch Border Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-color.php:111
+#: includes/customizer/fields/swatch-color.php:111
+msgid "Color Swatch Hover Border Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-color.php:127
+#: includes/customizer/fields/swatch-color.php:127
+msgid "Color Swatch Selected Border Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-color.php:143
+#: includes/customizer/fields/swatch-color.php:143
+msgid "Color Swatch Tooltip"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:66
+#: includes/customizer/fields/swatch-general.php:66
+msgid "Hide Variation Reset Link"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:69
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:388
+#: includes/customizer/fields/swatch-general.php:69
+#: includes/customizer/fields/swatch-general.php:388
+msgid "No"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:70
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:389
+#: includes/customizer/fields/swatch-general.php:70
+#: includes/customizer/fields/swatch-general.php:389
+msgid "Yes"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:88
+#: includes/customizer/fields/swatch-general.php:88
+msgid "Attribute Label Position"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:92
+#: includes/customizer/fields/swatch-general.php:92
+msgid "Above Swatches"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:93
+#: includes/customizer/fields/swatch-general.php:93
+msgid "Hidden"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:109
+#: includes/customizer/fields/swatch-general.php:109
+msgid "Attribute Label Bottom Margin"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:131
+#: includes/customizer/fields/swatch-general.php:131
+msgid "Swatch Spacing"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:138
+#: includes/customizer/fields/swatch-general.php:138
+msgid "Swatches Container Spacing"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:174
+#: includes/customizer/fields/swatch-general.php:174
+msgid "Horizontal Gap Between Swatches"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:205
+#: includes/customizer/fields/swatch-general.php:205
+msgid "Vertical Gap Between Swatches"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:226
+#: includes/customizer/fields/swatch-general.php:226
+msgid "Vertical Gap Between Attributes"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:270
+#: includes/customizer/fields/swatch-general.php:270
+msgid "Swatch Tooltip Image Size"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:291
+#: includes/customizer/fields/swatch-general.php:291
+msgid "Swatch Tooltip Border Radius"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:312
+#: includes/customizer/fields/swatch-general.php:312
+msgid "Swatch Tooltip Border Size"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:338
+#: includes/customizer/fields/swatch-general.php:338
+msgid "Swatch Tooltip Background"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:361
+#: includes/customizer/fields/swatch-general.php:361
+msgid "Swatch Tooltip Text Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:378
+#: includes/customizer/fields/swatch-general.php:378
+msgid "Catalog Mode"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:385
+#: includes/customizer/fields/swatch-general.php:385
+msgid "Enable Catalog Mode"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:397
+#: includes/customizer/fields/swatch-general.php:397
+msgid "Select Attribute"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:398
+#: includes/customizer/fields/swatch-general.php:398
+msgid "Select single attribute that will be used as catalog mode"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:414
+#: includes/customizer/fields/swatch-general.php:414
+msgid "Select Custom Attributes"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:415
+#: includes/customizer/fields/swatch-general.php:415
+msgid ""
+"Enter custom attribute names that will be used as catalog mode. If more than "
+"one attribute is available, only the first one will be used."
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:419
+#: includes/customizer/fields/swatch-general.php:419
+msgid "Custom attribute"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-general.php:425
+#: includes/customizer/fields/swatch-general.php:425
+msgid "Custom Attribute"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-image.php:58
+#: includes/customizer/fields/swatch-image.php:58
+msgid "Image Swatch Inner Padding"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-image.php:79
+#: includes/customizer/fields/swatch-image.php:79
+msgid "Image Swatch Border Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-image.php:95
+#: includes/customizer/fields/swatch-image.php:95
+msgid "Image Swatch Hover Border Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-image.php:111
+#: includes/customizer/fields/swatch-image.php:111
+msgid "Image Swatch Selected Border Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-image.php:127
+#: includes/customizer/fields/swatch-image.php:127
+msgid "Image Swatch Tooltip"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-label.php:104
+#: includes/customizer/fields/swatch-label.php:104
+msgid "Label Swatch Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-label.php:119
+#: includes/customizer/fields/swatch-label.php:119
+msgid "Label Swatch Hover Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-label.php:134
+#: includes/customizer/fields/swatch-label.php:134
+msgid "Label Swatch Selected Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-label.php:149
+#: includes/customizer/fields/swatch-label.php:149
+msgid "Label Swatch Background"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-label.php:164
+#: includes/customizer/fields/swatch-label.php:164
+msgid "Label Swatch Hover Background"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-label.php:179
+#: includes/customizer/fields/swatch-label.php:179
+msgid "Label Swatch Selected Background"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-label.php:194
+#: includes/customizer/fields/swatch-label.php:194
+msgid "Label Swatch Border Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-label.php:210
+#: includes/customizer/fields/swatch-label.php:210
+msgid "Label Swatch Hover Border Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-label.php:226
+#: includes/customizer/fields/swatch-label.php:226
+msgid "Label Swatch Selected Border Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/customizer/fields/swatch-label.php:242
+#: includes/customizer/fields/swatch-label.php:242
+msgid "Label Swatch Tooltip"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:75
+#: includes/license/includes/class-license.php:75
+msgid "Activate License"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:78
+#: includes/license/includes/class-license.php:78
+msgid "License Activated"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:85
+#: includes/license/includes/class-license.php:85
+msgid "License"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:293
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:369
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:396
+#: includes/license/includes/class-license.php:293
+#: includes/license/includes/class-license.php:369
+#: includes/license/includes/class-license.php:396
+#, php-format
+msgid "Your license of %1$s is %2$s."
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:295
+#: includes/license/includes/class-license.php:295
+msgid "Not Activated"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:322
+#: includes/license/includes/class-license.php:322
+msgid "Validate"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:328
+#: includes/license/includes/class-license.php:328
+#, php-format
+msgid "This %1$s is activated somewhere else."
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:336
+#: includes/license/includes/class-license.php:336
+msgid "Cancel"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:338
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:435
+#: includes/license/includes/class-license.php:338
+#: includes/license/includes/class-license.php:435
+msgid "Buy License"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:339
+#: includes/license/includes/class-license.php:339
+msgid "Revoke"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:349
+#: includes/license/includes/class-license.php:349
+#, php-format
+msgid "This %1$s is %2$s."
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:351
+#: includes/license/includes/class-license.php:351
+msgid "Invalid"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:371
+#: includes/license/includes/class-license.php:371
+msgid "Activated"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:382
+#: includes/license/includes/class-license.php:382
+#, php-format
+msgid "Automated updates are now %1$s"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:383
+#: includes/license/includes/class-license.php:383
+msgid "Enabled"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:398
+#: includes/license/includes/class-license.php:398
+msgid "Expired"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:409
+#: includes/license/includes/class-license.php:409
+#, php-format
+msgid "Automated updates are %1$s"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/class-license.php:436
+#: includes/license/includes/class-license.php:436
+msgid "Revoke License"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:54
+#: includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:77
+#: includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:128
+#: includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:213
+#: includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:213
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:215
+#: includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:215
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:217
+#: includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:223
+#: includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:223
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-variation-swatches-pro/includes/license/includes/plugin-update-checker/Puc/v4p5/Vcs/PluginUpdateChecker.php:98
+#: includes/license/includes/plugin-update-checker/Puc/v4p5/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://xplodedthemes.com/products/woo-variation-swatches/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A WooCommerce extension that transforms variation dropdowns to beautiful "
+"swatches. Color, image and text swatches available. Image swatches will "
+"automatically be applied for variation color attributes that contains an "
+"image."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "XplodedThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://xplodedthemes.com"
+msgstr ""

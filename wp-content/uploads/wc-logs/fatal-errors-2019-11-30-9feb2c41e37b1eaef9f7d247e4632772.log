@@ -1,0 +1,6 @@
+2019-11-30T08:02:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wp-content\plugins\better-wp-security\core\modules.php à la ligne 584
+
+2019-11-30T08:02:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wp-admin\includes\class-wp-privacy-policy-content.php à la ligne 10
+
+2019-11-30T11:19:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\wp-content\plugins\wordpress-seo\admin\class-customizer.php à la ligne 11
+
