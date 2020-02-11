@@ -982,6 +982,27 @@ if ( ! function_exists( 'owp_fs' ) ) {
     }
 }
 
+function example_custom_order_fields( $fields, $order ) {
+    $new_fields = array();
+        
+    if( get_post_meta( $order->id, 'your_meta_field_name', true ) ) {
+        $new_fields['your_meta_field_name'] = array( 
+            'label' => 'VAT',
+            'value' => get_post_meta( $order->id, 'your_meta_field_name', true )
+        );
+    }
+    
+    if( get_post_meta( $order->id, 'your_meta_field_name', true ) ) {
+        $new_fields['your_meta_field_name'] = array( 
+            'label' => 'Customer Number',
+            'value' => get_post_meta( $order->id, 'your_meta_field_name', true )
+        );
+    }
+    
+    return array_merge( $fields, $new_fields );
+}
+add_filter( 'wcdn_order_info_fields', 'example_custom_order_fields', 10, 2 );
+
 #endregion
 
 new OCEANWP_Theme_Class;

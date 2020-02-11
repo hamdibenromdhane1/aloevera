@@ -1,0 +1,4 @@
+2020-02-10T16:22:48+00:00 CRITICAL Out of memory (allocated 50331648) (tried to allocate 28672 bytes) dans C:\xampp\htdocs\wp-content\plugins\woocommerce\packages\woocommerce-rest-api\src\Controllers\Version1\class-wc-rest-products-v1-controller.php à la ligne 518
+
+2020-02-10T16:22:58+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 32768 bytes) dans C:\xampp\htdocs\wp-content\plugins\xt-woo-variation-swatches\includes\xirki\field\class-xirki-field-repeater.php à la ligne 1
+
